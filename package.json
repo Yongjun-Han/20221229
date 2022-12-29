@@ -1,0 +1,20 @@
+{
+  "name": "20221229",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yongjun-Han/20221229.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yongjun-Han/20221229/issues"
+  },
+  "homepage": "https://github.com/Yongjun-Han/20221229#readme"
+}
